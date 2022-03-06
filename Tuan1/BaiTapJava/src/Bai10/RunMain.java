@@ -22,6 +22,7 @@ public class RunMain {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
         System.out.print("Nhap so luong: ");
         int n = scanner.nextInt();
         System.out.println("Nhap mang: ");
@@ -43,5 +44,6 @@ public class RunMain {
         soNguyenTos.addAll(soThuong);
 
         System.out.println("Ket qua la : " + soNguyenTos);
+        
     }
 }
