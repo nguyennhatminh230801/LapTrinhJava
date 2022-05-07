@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="737adc4c-a38c-4dad-b17d-43c3e123b560" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuan6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo1/Cau1/FileInputStream/DataStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo1/Cau1/FileOutputStream/FileOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo1/Cau2/Input/ObjectInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo1/Cau2/Output/ObjectOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo1/Cau2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo1/Cau3/RandomAccessFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo2/Cau1/CanBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo2/Cau1/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo2/Cau1/KySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo2/Cau1/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhieuSo2/Cau1/RunMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuan4/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27iiq3tbvFKnbydsR0Ta4kL0gy7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DataStreamExample">
+    <configuration name="DataStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhieuSo1.Cau1.FileInputStream.DataStreamExample" />
+      <module name="Tuan6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhieuSo1.Cau1.FileInputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhieuSo1.Cau1.FileOutputStream.FileOutputStreamExample" />
+      <module name="Tuan6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhieuSo1.Cau1.FileOutputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectInputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhieuSo1.Cau2.Input.ObjectInputStreamExample" />
+      <module name="Tuan6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhieuSo1.Cau2.Input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomAccessFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhieuSo1.Cau3.RandomAccessFileExample" />
+      <module name="Tuan6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau3.StudentManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomAccessFileẼample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau3.RandomAccessFileẼample" />
+      <module name="Tuan6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cau3.StudentManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataStreamExample" />
+        <item itemvalue="Application.FileOutputStreamExample" />
+        <item itemvalue="Application.RandomAccessFileExample" />
+        <item itemvalue="Application.RandomAccessFileẼample" />
+        <item itemvalue="Application.ObjectInputStreamExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737adc4c-a38c-4dad-b17d-43c3e123b560" name="Changes" comment="" />
+      <created>1649809508333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649809508333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
